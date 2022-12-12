@@ -11,4 +11,5 @@ Place the ``||led:plot||`` block onto the editor workspace.
 
 ```blocks
 led.plot(0, 0)
+
 ```
